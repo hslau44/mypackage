@@ -39,3 +39,7 @@ def test_factorial():
 def test_mod():
     assert calculator.mod(10, 3) == 1
     assert calculator.mod(20, 5) == 0
+
+def test_cube():
+    assert calculator.cube(3) == 27
+    assert calculator.cube(-2) == -8

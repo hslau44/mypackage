@@ -26,3 +26,5 @@ def factorial(n):
     return result
 def mod(a, b):
     return a % b
+def cube(a):
+    return a ** 3
