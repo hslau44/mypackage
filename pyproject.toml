@@ -3,8 +3,8 @@ requires = ["setuptools >= 77.0.3"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "andy_lau"
-version = "0.0.1"
+name = "hslaupackage"
+version = "0.0.2"
 authors = [
   { name="andy_lau", email="hslau44@gmail.com" },
 ]
@@ -19,5 +19,5 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/hslau44/mypackage"
+Issues = "https://github.com/hslau44/mypackage/issues"
